@@ -19,12 +19,12 @@ name = "mukesh"
 print(name)
 
 ### Sample output
-##Python 3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0] on linux
-##Type "help", "copyright", "credits" or "license" for more information.
-#>>> name = "Mukesh"
-#>>> print(name)
-#Mukesh
-#>>> 
+Python 3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> name = "Mukesh"
+>>> print(name)
+Mukesh
+>>> 
 ###
 
 #Define variable with datatype int
@@ -38,7 +38,7 @@ name = "Peter"
 Name = "Bea"
 
 ### Sample output for using * in variable name
-#>>> *name = "mark"
-#  File "<stdin>", line 1
-#SyntaxError: starred assignment target must be in a list or tuple
-#>>> 
+>>> *name = "mark"
+  File "<stdin>", line 1
+SyntaxError: starred assignment target must be in a list or tuple
+>>> 
