@@ -5,6 +5,8 @@
 # / Division
 # ** Exponential
 # // Modulus (reminer after division)
+# >= greater than or equal to
+# <= less than or equal to
 
 num1 = 10
 num2 = 5
