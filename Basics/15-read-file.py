@@ -1,5 +1,6 @@
 file = open('text.txt', 'r')
 f = file.readlines()
+file.close()
 
 print(f)
 
