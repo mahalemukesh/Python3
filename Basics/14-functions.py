@@ -13,8 +13,12 @@ print(subNumber)
 def printString(string):
     print(string)
 
-printString('Hello')
+def doSomething():
+    print('Hi')
 
+doSomething()
+printString('Hello')
+printString('Myself Mukesh')
 
 
 ##Sample output
@@ -26,3 +30,10 @@ $ python3.10 functions.py        <---- With string = 'Hello'
 11
 7
 Hello
+
+$ python3.10 functions.py       <----- By usning () without str
+11
+7
+Hi
+Hello
+Myself Mukesh
